@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionPointer", "FunctionPointer\FunctionPointer.vcproj", "{8C485A56-2C24-4A50-8DAA-50A65E3B34E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C485A56-2C24-4A50-8DAA-50A65E3B34E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C485A56-2C24-4A50-8DAA-50A65E3B34E1}.Debug|Win32.Build.0 = Debug|Win32
+		{8C485A56-2C24-4A50-8DAA-50A65E3B34E1}.Release|Win32.ActiveCfg = Release|Win32
+		{8C485A56-2C24-4A50-8DAA-50A65E3B34E1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
